@@ -4,15 +4,15 @@
 
 
 ### :man_technologist: About Me :
-- 🔭 I’m currently working on [Elite NFT's website](https://elitenft.studio/)
+- 🔭 I’m currently working on [Alumni Connect](https://github.com/prathameshParadkar/Alumni-Connect)
 
-- 🌱 I’m currently learning **Python, Pandas, Scikit_Learn**
+- 🌱 I’m currently learning **Solidity, Kubernetes, Jenkins**
 
-- 🤝 I’m looking for help with **Sentimental analysis using opinion words**
+- 🤝 I’m looking for help with **Deploying Smart Contracts**
 
-- 💬 Ask me about **Next, tailwind, React-native**
+- 💬 Ask me about **Blockchain, DevOPs, Cloud, Web/App Development**
 
-- 📫 How to reach me **par76.pkar@gmail.com**
+- 📫 How to reach me **prathamesh.pkar@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
